@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Rose Pâtisserie & Café Lounge",
+  "description": "Premium digital café and dessert menu with soft pastel aesthetic, interactive category navigation, DZD currency pricing, QR code generator, and full real-time admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
